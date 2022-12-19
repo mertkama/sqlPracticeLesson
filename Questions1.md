@@ -22,4 +22,10 @@ WHERE flavor IS NULL;
 
 * What is a relational database?
 
+![Screenshot from 2022-12-19 14-59-41](https://user-images.githubusercontent.com/97520268/208421578-7b7f969f-fb30-4a66-a078-681fa8183246.png)
 
+# 4
+
+* What is a NULL value?
+
+![image](https://user-images.githubusercontent.com/97520268/208421973-53f1f68a-dbca-49a7-b95f-32c080caffaa.png)
