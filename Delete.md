@@ -23,4 +23,4 @@ WHERE twitter_handle IS NULL;
  
 SELECT * FROM celebs; 
 ```
-<-- `there are 1 "rows" in the vowel table`. -->
+<-- `there are 1 "rows" in the celebs table`. -->
