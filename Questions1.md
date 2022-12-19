@@ -16,6 +16,10 @@ Insert new rows into a table.
 DELETE FROM icecream
 WHERE flavor IS NULL;
 ```
+![image](https://user-images.githubusercontent.com/97520268/208420955-d558f604-3388-4ece-baa6-565295ce7ef0.png)
+
+
+* What is a relational database?
 
 
 
